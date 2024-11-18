@@ -27,4 +27,5 @@ Run tests with `mvn test`.
 ## Endpoints
 - **POST /api/stock-records/upload**: Upload a dataset.
 - **GET /api/stock-records/query/{stock}**: Query records by stock ticker.
+- **GET /api/stock-records/query**: Query All records by stock ticker.
 - **POST /api/stock-records/add**: Add a new record.
