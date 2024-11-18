@@ -5,6 +5,7 @@ A Spring Boot application to manage and query weekly stock records from the Dow 
 ## Features
 - Upload bulk datasets.
 - Query records by stock ticker.
+- Query All records by stock ticker.
 - Add a new stock record.
 
 ## Technologies
