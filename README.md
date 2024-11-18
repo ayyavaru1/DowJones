@@ -15,7 +15,7 @@ A Spring Boot application to manage and query weekly stock records from the Dow 
 ## Running the Application
 1. Set up h2-console and update `application.properties`.
 2. Run the application with `mvn spring-boot:run`.
-3. Access Swagger at `http://localhost:8080/swagger-ui/`.
+3. Access Swagger at `http://localhost:8080/swagger-ui/index.html`.
 
 ## Testing
 Run tests with `mvn test`.
