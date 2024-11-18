@@ -1,7 +1,3 @@
-# DowJones
-Upload a bulk data
-
-
 # Dow Jones Stock Record Manager
 
 A Spring Boot application to manage and query weekly stock records from the Dow Jones Index dataset.
